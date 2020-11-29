@@ -1,34 +1,34 @@
-,Unnamed: 0,Nom bateau,Numéro de voile,Anciens noms du bateau,Architecte,Chantier,Date de lancement,Longueur,Largeur,Tirant d'eau,Déplacement (poids),Nombre de dérives,Hauteur mât,Voile quille,Surface de voiles au près,Surface de voiles au portant,Skipper
-0,0,NEWREST - ART & FENÊTRES,FRA 56,"No Way Back, Vento di Sardegna",VPLP/Verdier,Persico Marine,01 Août 2015,"18,28 m","5,85 m","4,50 m",7 t,foils,29 m,monotype,320 m2,570 m2,Fabrice Amedeo
-1,1,PURE - Best Western®,FRA 49,"Gitana Eighty, Synerciel, Newrest-Matmut",Bruce Farr Design,Southern Ocean Marine (Nouvelle Zélande),08 Mars 2007,"18,28m","5,80m","4,50m",9t,2,28m,acier forgé,280 m2,560 m2,Romain Attanasio
-2,2,TSE -  4MYPLANET,FRA72,"Famille Mary-Etamine du Lys, Initiatives Coeur, Le Pingouin",Marc Lombard,MAG France,01 Mars 1998,"18,28m","5,54m","4,50m",9t,2,29 m,acier,260 m2,580 m2,Alexia Barrier
-3,3,Maître CoQ IV,17,Safran 2 - Des Voiles et Vous,Verdier - VPLP,CDK Technologies,12 Mars 2015,"18,28 m","5,80 m","4,50 m",8 t,foils,29 m,acier mécano soudé,310 m2,550 m2,Yannick Bestaven
-4,4,CHARAL,08,,VPLP,CDK Technologies,18 Août 2018,"18,28 m","5,85 m","4,50 m",8t,foils,29 m,acier,320 m2,600 m2,Jérémie Beyou
-5,5,LA MIE CÂLINE - ARTISANS ARTIPÔLE,FRA 14,"Ecover3, Président, Gamesa, Kilcullen Voyager-Team Ireland",Owen Clarke Design LLP - Clay Oliver,Hakes Marine - Mer Agitée,03 Août 2007,"18,28 m","5,65 m","4,50 m","7,9 tonnes",foils,29 m,basculante avec vérin,300 m²,610 m²,Arnaud Boissières
-6,6,BUREAU VALLEE 2,18,Banque Populaire VIII,Verdier - VPLP,CDK Technologies,09 Juin 2015,"18,28 m","5,80 m","4,50 m","7,6 t",foils,28 m ,acier,300 m2,600 m2,Louis Burton
-7,7,ONE PLANET ONE OCEAN,ESP 33,Kingfisher - Educacion sin Fronteras - Forum Maritim Catala - One Planet One Ocean & Pharmaton,Owen Clarke Design,Martens Yachts,02 Février 2000,"18,28 m","5,30 m","4,50 m","8,9 t",2,26 m,acier,240 m2,470 m2,Didac Costa
-8,8,GROUPE SÉTIN,FRA 71,"Paprec-Virbac2, Estrella Damm, We are Water, La Mie Câline",Bruce Farr Yacht Design,Southern Ocean Marine (Nouvelle-Zélande),02 Février 2007,"18,28 m","5,80 m","4,50 m",9 t,2 asymétriques,"28,50",basculante sur vérin hydraulique,270 m2,560 m2,Manuel Cousin
-9,9,BANQUE POPULAIRE X,FRA30,Macif - SMA,Verdier - VPLP,CDK - Mer Agitée,01 Mars 2011,"18,28 m","5,70 m","4,5 m","7,7 t",2,29 m,acier forgé,340 m2,570 m2,Clarisse Cremer
-10,10,APIVIA,FRA 79,,Verdier,CDK technologies - MerConcept,05 Août 2019,"18,28 m","5,85 m","4,50 m",8 t,foils,29 m,acier,350 m2,560 m2,Charlie Dalin
-11,11,INITIATIVES-COEUR,FRA109,Maître CoQ - Banque Populaire VII- Foncia II,VPLP - Verdier,CDK Technologies,20 Septembre 2010,"18,28 m","5,70 m","4,50 m","7,8 t",foils,27 m,acier forgé,300 m2,600 m2,Sam Davies
-12,12,MERCI,69,"Foresight Natural Energy, Maisonneuve",Lavanos,Artech do Brasil,15 Janvier 2005,"18,28 m","5,60 m","4,50 m","8,5 t",2,29 m,acier,250 m2,650 m2,Sébastien Destremau
-13,13,OMIA - WATER FAMILY ,FRA09,"Spirit of Yukoh, Neutrogena, Hugo Boss, Estrella Damm, Veolia Environnement, BT",Bruce Farr Design,Offshore Challenge - Cowes,03 Juillet 2007,"18,28 m","5,85 m","4,50 m",8 t,2,29 m,acier forgé,300 m2,700 m2,Benjamin Dutreux
-14,14,PRB,FRA 85,,Verdier - VPLP,CDK Technologies,08 Mars 2010,"18,28 m","5,50 m","4,50 m",NC,foils,"27,40 m",Acier mécano soudé,300 m2,600 m2,Kevin Escoffier
-15,15,Compagnie du Lit / Jiliti,FRA83,"Delta Dore, Bureau Vallée, Vers un Monde sans Sida",Bruce Farr design,JMV Cherbourg,26 Juillet 2006,"18,28 m","5,75 m","4,50 m","8,5 t",2,29 m,acier forgé,300 m2,620 m2,Clément Giraud
-16,16,MEDALLIA,GBR77,"Armor Lux, We Are Water, La Fabrique",Pierre Rolland,Bernard Stamm,03 Juillet 1999,"18,28 m","5,70 m","4,50 m",9 t,2,29 m,carbone,300 m2,580 m2,Pip Hare
-17,17,SEAEXPLORER - YACHT CLUB DE MONACO,16,"Edmond de Rothschild, Malizia - Yacht Club de Monaco",Verdier - VPLP,Multiplast,07 Août 2015,"18,28 m","5,70 m","4,50 m","7,6 t",foils,29 m,acier,290 m2,490 m2,Boris Herrmann
-18,18,STARK,FIN222,"Aviva, GAES Centros Auditivos",Owen Clarke Design,Hakes Marine - Wellington (Nouvelle-Zélande),06 Août 2007,"18,28 m","5,80 m","4,50 m","8,5 t",2,28 m,acier,270 m2,580 m2,Ari Huusela
-19,19,MACSF,FRA 27,"Quéguiner, Safran",Verdier - VPLP,Chantier Naval de Larros,04 Juillet 2007,"18,28 m","5,60 m","4,50 m","7,7 t",foils,27 m,acier,300 m2,650 m2,Isabelle Joschke
-20,20,Yes We Cam!,001,"Cheminées Poujoulat, Mare, Maître CoQ, Mapfre, Foncia",Bruce Farr design,CDK Technologies,03 Janvier 2007,"18,28 m","5,90 m","4,50 m",8 t,2,28 m,acier forgé,300 m2,620 m2,Jean Le Cam
-21,21,TIME FOR OCEANS,FRA 92,"Hugo Boss, Energa, Compagnie du Lit-Boulogne Billancourt",Finot-Conq Design,Neville Hutton,01 Juin 2007,"18,28 m","5,84 m","4,50 m","8,5 t",foils,28 m,monotype,300 m2,550 m2,Stéphane Le Diraison
-22,22,CAMPAGNE DE FRANCE,FRA50,"Great America IV, Mirabaud, Temenos",Owen Clarke,"Southern Ocean Marine, Tauranga",04 Mai 2006,"18,28 m","5,50 m","4,50 m","8,5 t",2,28 m,carbone,330 m2,600 m2,Miranda Merron
-23,23,PRYSMIAN GROUP,ITA 06,Saint-Michel - Virbac,VPLP - Verdier,Multiplast,02 Avril 2015,"18,28 m","5,80 m","4,5 m",8 t,foils,29 m,acier forgé,300 m2,600 m2,Giancarlo Pedote
-24,24,LA FABRIQUE,SUI07,"Brit Air, Votre Nom autour du Monde, MACSF",Groupe Finot-Conq,Multiplast,01 Août 2007,"18,28 m","5,90 m","4,50 m",nc,foils,27 m,carbone,290 m2,580 m2,Alan  Roura
-25,25,LinkedOut,,,Verdier,Persico,03 Septembre 2019,"18,28 m","5,85 m","4,50 m",8 t,foils,29 m,acier forgé,350 m2,560 m2,Thomas Ruyant
-26,26,GROUPE APICIL,FRA1000,"Comme Un Seul Homme, DCNS",Groupe Finot-Conq,Multiplast,10 Août 2008,"18,28 m","5,85 m","4,50 m","8,5 t",2,29 m,acier forgé,350 m2,610 m2,Damien Seguin
-27,27,DMG MORI Global One,JPN 11,,VPLP,Multiplast,05 Septembre 2019,"18,28 m","5,85 m","4,50 m",8 t,foils,29 m,acier forgé,320 m2,580 m2,Kojiro Shiraishi
-28,28,ARKEA PAPREC,4,,Juan Kouyoumdjian,CDK Technologies / Assemblage,19 Juillet 2019,"18,28 m","5,70 m","4,50 m",8 t,foiler,29 m,Inox usiné,260 m2,600 m2,Sébastien Simon
-29,29,V and B-MAYENNE,FRA53,"Le Souffle du Nord, Groupe Bel",Verdier - VPLP,"Indiana Yachting (Scarlino, Italie)",07 Septembre 2007,"18,28 m","5,50 m","4,50 m","7,7 t",2,29 m,acier,365 m2,700 m2,Maxime Sorel
-30,30,HUGO BOSS,GBR 99,,VPLP - Alex Thomson Racing (led by Pete Hobson),Carrington Boats,15 Août 2019,"18,28 m","5,40 m","4,50 m","7,7 t",foils,29 m,acier forgé,330 m2,630 m2,Alex Thomson
-31,31,L'OCCITANE EN PROVENCE,2,,Samuel Manuard,Black Pepper©,31 Janvier 2020,"18,28 m","5,50 m","4,50 m","7,8 t",foils,28 m,acier forgé,270 m2,535 m2,Armel Tripon
-32,32,CORUM L'EPARGNE,FRA 6,,Juan Kouyoumdjian,CDK technologies - Mer Agitée,15 Mai 2020,"18,28 m","5,70 m","4,50 m","7,9 t",foils,"27,30 m",,270 m2,535 m2,Nicolas Troussel
+,Nom bateau,Numéro de voile,Anciens noms du bateau,Architecte,Chantier,Date de lancement,Longueur,Largeur,Tirant d'eau,Déplacement (poids),Nombre de dérives,Hauteur mât,Voile quille,Surface de voiles au près,Surface de voiles au portant,Skipper,Foils
+0,NEWREST - ART & FENÊTRES,FRA 56,"No Way Back, Vento di Sardegna",VPLP/Verdier,Persico Marine,01 Août 2015,18.28,5.85,4.5,7.0,foils,29.0,monotype,320.0,570.0,Fabrice Amedeo,True
+1,PURE - Best Western®,FRA 49,"Gitana Eighty, Synerciel, Newrest-Matmut",Bruce Farr Design,Southern Ocean Marine (Nouvelle Zélande),08 Mars 2007,18.28,5.8,4.5,9.0,2,28.0,acier forgé,280.0,560.0,Romain Attanasio,False
+2,TSE -  4MYPLANET,FRA72,"Famille Mary-Etamine du Lys, Initiatives Coeur, Le Pingouin",Marc Lombard,MAG France,01 Mars 1998,18.28,5.54,4.5,9.0,2,29.0,acier,260.0,580.0,Alexia Barrier,False
+3,Maître CoQ IV,17,Safran 2 - Des Voiles et Vous,Verdier - VPLP,CDK Technologies,12 Mars 2015,18.28,5.8,4.5,8.0,foils,29.0,acier mécano soudé,310.0,550.0,Yannick Bestaven,True
+4,CHARAL,08,,VPLP,CDK Technologies,18 Août 2018,18.28,5.85,4.5,8.0,foils,29.0,acier,320.0,600.0,Jérémie Beyou,True
+5,LA MIE CÂLINE - ARTISANS ARTIPÔLE,FRA 14,"Ecover3, Président, Gamesa, Kilcullen Voyager-Team Ireland",Owen Clarke Design LLP - Clay Oliver,Hakes Marine - Mer Agitée,03 Août 2007,18.28,5.65,4.5,7.9,foils,29.0,basculante avec vérin,300.0,610.0,Arnaud Boissières,True
+6,BUREAU VALLEE 2,18,Banque Populaire VIII,Verdier - VPLP,CDK Technologies,09 Juin 2015,18.28,5.8,4.5,7.6,foils,28.0,acier,300.0,600.0,Louis Burton,True
+7,ONE PLANET ONE OCEAN,ESP 33,Kingfisher - Educacion sin Fronteras - Forum Maritim Catala - One Planet One Ocean & Pharmaton,Owen Clarke Design,Martens Yachts,02 Février 2000,18.28,5.3,4.5,8.9,2,26.0,acier,240.0,470.0,Didac Costa,False
+8,GROUPE SÉTIN,FRA 71,"Paprec-Virbac2, Estrella Damm, We are Water, La Mie Câline",Bruce Farr Yacht Design,Southern Ocean Marine (Nouvelle-Zélande),02 Février 2007,18.28,5.8,4.5,9.0,2 asymétriques,28.5,basculante sur vérin hydraulique,270.0,560.0,Manuel Cousin,False
+9,BANQUE POPULAIRE X,FRA30,Macif - SMA,Verdier - VPLP,CDK - Mer Agitée,01 Mars 2011,18.28,5.7,4.5,7.7,2,29.0,acier forgé,340.0,570.0,Clarisse Cremer,False
+10,APIVIA,FRA 79,,Verdier,CDK technologies - MerConcept,05 Août 2019,18.28,5.85,4.5,8.0,foils,29.0,acier,350.0,560.0,Charlie Dalin,True
+11,INITIATIVES-COEUR,FRA109,Maître CoQ - Banque Populaire VII- Foncia II,VPLP - Verdier,CDK Technologies,20 Septembre 2010,18.28,5.7,4.5,7.8,foils,27.0,acier forgé,300.0,600.0,Sam Davies,True
+12,MERCI,69,"Foresight Natural Energy, Maisonneuve",Lavanos,Artech do Brasil,15 Janvier 2005,18.28,5.6,4.5,8.5,2,29.0,acier,250.0,650.0,Sébastien Destremau,False
+13,OMIA - WATER FAMILY ,FRA09,"Spirit of Yukoh, Neutrogena, Hugo Boss, Estrella Damm, Veolia Environnement, BT",Bruce Farr Design,Offshore Challenge - Cowes,03 Juillet 2007,18.28,5.85,4.5,8.0,2,29.0,acier forgé,300.0,700.0,Benjamin Dutreux,False
+14,PRB,FRA 85,,Verdier - VPLP,CDK Technologies,08 Mars 2010,18.28,5.5,4.5,8.0,foils,27.4,Acier mécano soudé,300.0,600.0,Kevin Escoffier,True
+15,Compagnie du Lit / Jiliti,FRA83,"Delta Dore, Bureau Vallée, Vers un Monde sans Sida",Bruce Farr design,JMV Cherbourg,26 Juillet 2006,18.28,5.75,4.5,8.5,2,29.0,acier forgé,300.0,620.0,Clément Giraud,False
+16,MEDALLIA,GBR77,"Armor Lux, We Are Water, La Fabrique",Pierre Rolland,Bernard Stamm,03 Juillet 1999,18.28,5.7,4.5,9.0,2,29.0,carbone,300.0,580.0,Pip Hare,False
+17,SEAEXPLORER - YACHT CLUB DE MONACO,16,"Edmond de Rothschild, Malizia - Yacht Club de Monaco",Verdier - VPLP,Multiplast,07 Août 2015,18.28,5.7,4.5,7.6,foils,29.0,acier,290.0,490.0,Boris Herrmann,True
+18,STARK,FIN222,"Aviva, GAES Centros Auditivos",Owen Clarke Design,Hakes Marine - Wellington (Nouvelle-Zélande),06 Août 2007,18.28,5.8,4.5,8.5,2,28.0,acier,270.0,580.0,Ari Huusela,False
+19,MACSF,FRA 27,"Quéguiner, Safran",Verdier - VPLP,Chantier Naval de Larros,04 Juillet 2007,18.28,5.6,4.5,7.7,foils,27.0,acier,300.0,650.0,Isabelle Joschke,True
+20,Yes We Cam!,001,"Cheminées Poujoulat, Mare, Maître CoQ, Mapfre, Foncia",Bruce Farr design,CDK Technologies,03 Janvier 2007,18.28,5.9,4.5,8.0,2,28.0,acier forgé,300.0,620.0,Jean Le Cam,False
+21,TIME FOR OCEANS,FRA 92,"Hugo Boss, Energa, Compagnie du Lit-Boulogne Billancourt",Finot-Conq Design,Neville Hutton,01 Juin 2007,18.28,5.84,4.5,8.5,foils,28.0,monotype,300.0,550.0,Stéphane Le Diraison,True
+22,CAMPAGNE DE FRANCE,FRA50,"Great America IV, Mirabaud, Temenos",Owen Clarke,"Southern Ocean Marine, Tauranga",04 Mai 2006,18.28,5.5,4.5,8.5,2,28.0,carbone,330.0,600.0,Miranda Merron,False
+23,PRYSMIAN GROUP,ITA 06,Saint-Michel - Virbac,VPLP - Verdier,Multiplast,02 Avril 2015,18.28,5.8,4.5,8.0,foils,29.0,acier forgé,300.0,600.0,Giancarlo Pedote,True
+24,LA FABRIQUE,SUI07,"Brit Air, Votre Nom autour du Monde, MACSF",Groupe Finot-Conq,Multiplast,01 Août 2007,18.28,5.9,4.5,8.0,foils,27.0,carbone,290.0,580.0,Alan  Roura,True
+25,LinkedOut,,,Verdier,Persico,03 Septembre 2019,18.28,5.85,4.5,8.0,foils,29.0,acier forgé,350.0,560.0,Thomas Ruyant,True
+26,GROUPE APICIL,FRA1000,"Comme Un Seul Homme, DCNS",Groupe Finot-Conq,Multiplast,10 Août 2008,18.28,5.85,4.5,8.5,2,29.0,acier forgé,350.0,610.0,Damien Seguin,False
+27,DMG MORI Global One,JPN 11,,VPLP,Multiplast,05 Septembre 2019,18.28,5.85,4.5,8.0,foils,29.0,acier forgé,320.0,580.0,Kojiro Shiraishi,True
+28,ARKEA PAPREC,4,,Juan Kouyoumdjian,CDK Technologies / Assemblage,19 Juillet 2019,18.28,5.7,4.5,8.0,foils,29.0,Inox usiné,260.0,600.0,Sébastien Simon,True
+29,V and B-MAYENNE,FRA53,"Le Souffle du Nord, Groupe Bel",Verdier - VPLP,"Indiana Yachting (Scarlino, Italie)",07 Septembre 2007,18.28,5.5,4.5,7.7,2,29.0,acier,365.0,700.0,Maxime Sorel,False
+30,HUGO BOSS,GBR 99,,VPLP - Alex Thomson Racing (led by Pete Hobson),Carrington Boats,15 Août 2019,18.28,5.4,4.5,7.7,foils,29.0,acier forgé,330.0,630.0,Alex Thomson,True
+31,L'OCCITANE EN PROVENCE,2,,Samuel Manuard,Black Pepper©,31 Janvier 2020,18.28,5.5,4.5,7.8,foils,28.0,acier forgé,270.0,535.0,Armel Tripon,True
+32,CORUM L'EPARGNE,FRA 6,,Juan Kouyoumdjian,CDK technologies - Mer Agitée,15 Mai 2020,18.28,5.7,4.5,7.9,foils,27.3,,270.0,535.0,Nicolas Troussel,True
